@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=70.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "powerlift-ai-x"
+version = "0.1.0"
+description = "ML-powered powerlifting competition intelligence and planning platform"
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

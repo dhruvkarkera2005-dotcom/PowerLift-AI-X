@@ -1,0 +1,1656 @@
+{
+  "files_profiled": 74,
+  "format_count": 4,
+  "formats": [
+    {
+      "format_signature": "d3ce152e429e",
+      "file_count": 27,
+      "files": [
+        "20190930045738ab.txt",
+        "20191222070046ab.txt",
+        "20210221050643ab.txt",
+        "20210321031856ab.txt",
+        "20210620083249ab.txt",
+        "20210620083720ab.txt",
+        "20210620083924ab.txt",
+        "20210909035919ab.txt",
+        "20210909040438ab.txt",
+        "20210909042016ab.txt",
+        "20210909042608ab.txt",
+        "20210909043446ab.txt",
+        "20210909044000ab.txt",
+        "20210909045134ab.txt",
+        "20210909045828ab.txt",
+        "20210909050227ab.txt",
+        "20210909050642ab.txt",
+        "20210909052314ab.txt",
+        "20210909052648ab.txt",
+        "20210909053118ab.txt",
+        "20210909054210ab.txt",
+        "20210910072810ab.txt",
+        "20210910083337ab.txt",
+        "20210910083457ab.txt",
+        "20220106093053ab.txt",
+        "20220418122413ab.txt",
+        "20220430032812ab.txt"
+      ]
+    },
+    {
+      "format_signature": "d54a12f516c1",
+      "file_count": 29,
+      "files": [
+        "20220610033709ab.txt",
+        "20220610121557ab.txt",
+        "20220610122013ab.txt",
+        "20220611060029ab.txt",
+        "20220919063034ab.txt",
+        "20220928051027ab.txt",
+        "20221016055743ab.txt",
+        "20221231035040ab.txt",
+        "20230227065535ab.txt",
+        "20230405111710ab.txt",
+        "20230517073302ab.txt",
+        "20230611022330ab.txt",
+        "20230714010052ab.txt",
+        "20230716035025ab.txt",
+        "20230813112521ab.txt",
+        "20230923112406ab.txt",
+        "20231108043853ab.txt",
+        "20231112061612ab.txt",
+        "20231229071213ab.txt",
+        "20240213062038ab.txt",
+        "20240412105811ab.txt",
+        "20240610115140ab.txt",
+        "20240624054856ab.txt",
+        "20240810094906ab.txt",
+        "20240814041929ab.txt",
+        "20241008070149ab.txt",
+        "20241108052024ab.txt",
+        "20241108052229ab.txt",
+        "20241109031603ab.txt"
+      ]
+    },
+    {
+      "format_signature": "e1881c17502d",
+      "file_count": 15,
+      "files": [
+        "20241124011317ab.txt",
+        "20241219012000ab.txt",
+        "20250224104722ab.txt",
+        "20250526032953ab.txt",
+        "20250630103500ab.txt",
+        "20250805061704ab.txt",
+        "20250807065613ab.txt",
+        "East_India_Classic_Powerlifting_Championship_2025_M_31-12-2025_093120.txt",
+        "East_India_Equipped_Powerlifting_Championship_2025_M_31-12-2025_093945.txt",
+        "National_Senior,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2026_M_090853.txt",
+        "National_Senior_Classic_Powerlifting_Championship_2026_M_014620.txt",
+        "North_India_Open,_Sub_Junior_&_Junior_Classic_Powerlifting_Championship_2025-26_M_120751.txt",
+        "North_India_Open,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2025-26_M_120841.txt",
+        "South_India_Senior,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2025-26_M_120653.txt",
+        "West_India_Classic_Powerlifting_Championship_2025_M_080802.txt"
+      ]
+    },
+    {
+      "format_signature": "452d3cb2d8b8",
+      "file_count": 3,
+      "files": [
+        "_National_Masters_Classic_Powerlifting_Championship_2026_M_024535.txt",
+        "National_Masters_Equipped_Powerlifting_Championship_2026_M_025040.txt",
+        "National_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2026_M_085026.txt"
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "file": "20190930045738ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 60273,
+      "lines": 522
+    },
+    {
+      "file": "20191222070046ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 6705,
+      "lines": 63
+    },
+    {
+      "file": "20210221050643ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 19687,
+      "lines": 166
+    },
+    {
+      "file": "20210321031856ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 40053,
+      "lines": 335
+    },
+    {
+      "file": "20210620083249ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 6485,
+      "lines": 65
+    },
+    {
+      "file": "20210620083720ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 5865,
+      "lines": 59
+    },
+    {
+      "file": "20210620083924ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 5086,
+      "lines": 52
+    },
+    {
+      "file": "20210909035919ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 10936,
+      "lines": 110
+    },
+    {
+      "file": "20210909040438ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 9945,
+      "lines": 101
+    },
+    {
+      "file": "20210909042016ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 14655,
+      "lines": 146
+    },
+    {
+      "file": "20210909042608ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 17262,
+      "lines": 171
+    },
+    {
+      "file": "20210909043446ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 20279,
+      "lines": 178
+    },
+    {
+      "file": "20210909044000ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 21066,
+      "lines": 180
+    },
+    {
+      "file": "20210909045134ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 7953,
+      "lines": 74
+    },
+    {
+      "file": "20210909045828ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 18576,
+      "lines": 161
+    },
+    {
+      "file": "20210909050227ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 16247,
+      "lines": 157
+    },
+    {
+      "file": "20210909050642ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 17824,
+      "lines": 156
+    },
+    {
+      "file": "20210909052314ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 69230,
+      "lines": 605
+    },
+    {
+      "file": "20210909052648ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 16080,
+      "lines": 143
+    },
+    {
+      "file": "20210909053118ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 9241,
+      "lines": 86
+    },
+    {
+      "file": "20210909054210ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 16535,
+      "lines": 144
+    },
+    {
+      "file": "20210910072810ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 21294,
+      "lines": 182
+    },
+    {
+      "file": "20210910083337ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 14976,
+      "lines": 147
+    },
+    {
+      "file": "20210910083457ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 13511,
+      "lines": 133
+    },
+    {
+      "file": "20220106093053ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 28966,
+      "lines": 248
+    },
+    {
+      "file": "20220418122413ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 76889,
+      "lines": 649
+    },
+    {
+      "file": "20220430032812ab.txt",
+      "format_signature": "d3ce152e429e",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points",
+        "Place Name DOB Team Lot Bd. Wt. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points"
+      ],
+      "characters": 12669,
+      "lines": 112
+    },
+    {
+      "file": "20220610033709ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 7108,
+      "lines": 66
+    },
+    {
+      "file": "20220610121557ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 39384,
+      "lines": 323
+    },
+    {
+      "file": "20220610122013ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 7862,
+      "lines": 71
+    },
+    {
+      "file": "20220611060029ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 18728,
+      "lines": 175
+    },
+    {
+      "file": "20220919063034ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 37424,
+      "lines": 319
+    },
+    {
+      "file": "20220928051027ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 65232,
+      "lines": 603
+    },
+    {
+      "file": "20221016055743ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 45076,
+      "lines": 442
+    },
+    {
+      "file": "20221231035040ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 21688,
+      "lines": 192
+    },
+    {
+      "file": "20230227065535ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 15794,
+      "lines": 147
+    },
+    {
+      "file": "20230405111710ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 17619,
+      "lines": 155
+    },
+    {
+      "file": "20230517073302ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 39666,
+      "lines": 343
+    },
+    {
+      "file": "20230611022330ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 48697,
+      "lines": 406
+    },
+    {
+      "file": "20230714010052ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 20346,
+      "lines": 228
+    },
+    {
+      "file": "20230716035025ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 30343,
+      "lines": 313
+    },
+    {
+      "file": "20230813112521ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 22682,
+      "lines": 199
+    },
+    {
+      "file": "20230923112406ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 8371,
+      "lines": 82
+    },
+    {
+      "file": "20231108043853ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 4069,
+      "lines": 52
+    },
+    {
+      "file": "20231112061612ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 4661,
+      "lines": 55
+    },
+    {
+      "file": "20231229071213ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 14246,
+      "lines": 131
+    },
+    {
+      "file": "20240213062038ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 19964,
+      "lines": 201
+    },
+    {
+      "file": "20240412105811ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 22521,
+      "lines": 195
+    },
+    {
+      "file": "20240610115140ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 47919,
+      "lines": 417
+    },
+    {
+      "file": "20240624054856ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 40112,
+      "lines": 369
+    },
+    {
+      "file": "20240810094906ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 20668,
+      "lines": 279
+    },
+    {
+      "file": "20240814041929ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 29415,
+      "lines": 329
+    },
+    {
+      "file": "20241008070149ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 21901,
+      "lines": 203
+    },
+    {
+      "file": "20241108052024ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 6260,
+      "lines": 67
+    },
+    {
+      "file": "20241108052229ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 5486,
+      "lines": 62
+    },
+    {
+      "file": "20241109031603ab.txt",
+      "format_signature": "d54a12f516c1",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 Best [PL] BP1 BP2 BP3 Best [PL] DL1 DL2 DL3 Best [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 19737,
+      "lines": 206
+    },
+    {
+      "file": "20241124011317ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 20288,
+      "lines": 202
+    },
+    {
+      "file": "20241219012000ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 12624,
+      "lines": 120
+    },
+    {
+      "file": "20250224104722ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 25902,
+      "lines": 213
+    },
+    {
+      "file": "20250526032953ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 52847,
+      "lines": 434
+    },
+    {
+      "file": "20250630103500ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 55084,
+      "lines": 495
+    },
+    {
+      "file": "20250805061704ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 33247,
+      "lines": 342
+    },
+    {
+      "file": "20250807065613ab.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 23164,
+      "lines": 264
+    },
+    {
+      "file": "_National_Masters_Classic_Powerlifting_Championship_2026_M_024535.txt",
+      "format_signature": "452d3cb2d8b8",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK."
+      ],
+      "characters": 31456,
+      "lines": 332
+    },
+    {
+      "file": "East_India_Classic_Powerlifting_Championship_2025_M_31-12-2025_093120.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 6358,
+      "lines": 68
+    },
+    {
+      "file": "East_India_Equipped_Powerlifting_Championship_2025_M_31-12-2025_093945.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 4612,
+      "lines": 55
+    },
+    {
+      "file": "National_Masters_Equipped_Powerlifting_Championship_2026_M_025040.txt",
+      "format_signature": "452d3cb2d8b8",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK."
+      ],
+      "characters": 22346,
+      "lines": 261
+    },
+    {
+      "file": "National_Senior,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2026_M_090853.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 49066,
+      "lines": 414
+    },
+    {
+      "file": "National_Senior_Classic_Powerlifting_Championship_2026_M_014620.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 22938,
+      "lines": 198
+    },
+    {
+      "file": "National_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2026_M_085026.txt",
+      "format_signature": "452d3cb2d8b8",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points BL. RK.",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name YOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 27832,
+      "lines": 270
+    },
+    {
+      "file": "North_India_Open,_Sub_Junior_&_Junior_Classic_Powerlifting_Championship_2025-26_M_120751.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 14015,
+      "lines": 164
+    },
+    {
+      "file": "North_India_Open,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2025-26_M_120841.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 11684,
+      "lines": 146
+    },
+    {
+      "file": "South_India_Senior,_Sub_Junior_&_Junior_Equipped_Powerlifting_Championship_2025-26_M_120653.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 14261,
+      "lines": 165
+    },
+    {
+      "file": "West_India_Classic_Powerlifting_Championship_2025_M_080802.txt",
+      "format_signature": "e1881c17502d",
+      "features": {
+        "has_rank": false,
+        "has_name": true,
+        "has_bodyweight": true,
+        "has_squat": true,
+        "has_bench": true,
+        "has_deadlift": true,
+        "has_total": true
+      },
+      "header_examples": [
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place",
+        "Place Name DOB Team Lot Bd. Wt. Coeff. SQ1 SQ2 SQ3 SQ [PL] BP1 BP2 BP3 BP [PL] DL1 DL2 DL3 DL [PL] Total Points IPF GL Points Place"
+      ],
+      "characters": 21107,
+      "lines": 214
+    }
+  ]
+}

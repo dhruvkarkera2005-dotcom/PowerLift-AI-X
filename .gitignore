@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+logs/
+*.bak
+*.tmp
+*.old
+
+# Large/local datasets
+data/raw/*
+data/extracted/*
+data/cleaned/*
+data/final/*
+!data/raw/.gitkeep
+!data/extracted/.gitkeep
+!data/cleaned/.gitkeep
+!data/final/.gitkeep
+
+# Local model outputs
+models/*.joblib
+models/*.pkl
+models/*.pickle
+models/*.onnx
+
+# Generated archives
+*.zip
+notebooks/artifacts/

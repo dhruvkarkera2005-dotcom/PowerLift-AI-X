@@ -1,0 +1,30 @@
+# Core
+pandas
+numpy
+pydantic
+requests
+beautifulsoup4
+pypdf
+
+# API
+fastapi
+uvicorn
+
+# Streamlit UI
+streamlit
+plotly
+
+# Machine Learning
+scikit-learn
+joblib
+xgboost
+lightgbm
+catboost
+
+# Data / notebooks
+openpyxl
+matplotlib
+jupyter
+
+# Testing
+pytest
